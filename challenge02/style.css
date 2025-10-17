@@ -25,14 +25,14 @@ body {
 
 .header{
     background: #23424a;
+    color: white;
+    padding: 50px 0;
 }
 
 .container {
   width: 80%;
   max-width: 750px;
   margin: 0 auto;
-  color: white;
-  padding: 50px 0;
 }
 
 .intro-content {
