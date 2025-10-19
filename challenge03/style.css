@@ -5,13 +5,12 @@
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
-  background-color: #22424A;
 }
 
 .header{
-    background: #23424a;
-    color: white;
-    padding: 10% 0;
+  background-color: #22424A;
+  color: white;
+  padding: 10% 0;
 }
 
 .container {
